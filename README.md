@@ -1,4 +1,4 @@
-# Spring MVC
+# Spring MVC with MongoDB (Template)
 
 Here is the example of a web application built with Spring MVC 4.0.0 and Spring Data 1.8, integrating with the MongoDB document database.
 
